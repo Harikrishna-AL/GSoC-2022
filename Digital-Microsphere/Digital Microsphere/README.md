@@ -1,5 +1,5 @@
 # Digital Microsphere
-hffkhkgkgkj
+
 ### Contents:
 - [Project Summary](#summary)
 - [Stages of the project](#stages)
