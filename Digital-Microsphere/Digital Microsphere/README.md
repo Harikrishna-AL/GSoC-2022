@@ -46,5 +46,9 @@ npm start
 <hr>
 
 ![img1](https://user-images.githubusercontent.com/91690484/188880937-5bbbed57-ef1c-44e1-9c1e-8dca285fec1d.png)
+<br>
+Click the **_import_** button to import images from your pc.
 ![image](https://user-images.githubusercontent.com/91690484/188862650-a7e96be5-2242-4240-9145-926a88fb94b4.png)
+Select two images of the embryo which represent it's two opposite sides
 ![img1](https://user-images.githubusercontent.com/91690484/188885611-adf56d48-34f7-4c09-889f-10642f35d97a.png)
+Click the **_load the model_** button to load the new images that was selected in the previous step.
