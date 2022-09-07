@@ -1,11 +1,11 @@
 # Digital Microsphere
 ### contents:
-- <a href="project-summary" id="summary">Project Summary</a>
-- <a href="stages-of-the-project" id="stages">Stages of the Project</a>
-- <a href="installing-instructions" id="instructions">Instructions to install in your computer</a>
-### 1. Project Summary:
+- [Project Summary](#summary)
+- [Stages of the project](#stages)
+- [Installing Instructions](#instructions)
+### <h3 id="summary">1. Project Summary:</h3>
 In some organisms like axolotl, the surface of the embryo is transparent and thus allowing us to see the embryogenetic events taking place before the neural tube closure. Therefore, acquiring images of the outside of early stage developing embryos could give us many insights. Hence, aim of this project is to build a computational tool that allows us to visualize 4D data derived from the surface of an Axolotl embryo using a special microscope called Digital Microsphere. That is, a computational tool which will display a sphere on which the images of the embryo from different angles will be mapped creating a 3D model.
-### 2. Stages of the Project:
+### <h3 id="stages">2. Stages of the Project:</h3>
   - #### Stage #1: Image Cropping and Processing
     In this stage, the main focus is to crop the images to get the required portion and do some image processing on it. The python file retreives the outline of the embryo and then uses it to find out the radius of the embryo in the x,y and z directions respecitvely.
   - #### Stage #2: Generating the Point Cloud and the 3D mesh
@@ -20,5 +20,5 @@ In some organisms like axolotl, the surface of the embryo is transparent and thu
     
     ![image](https://user-images.githubusercontent.com/91690484/182140178-2cbc32f7-ba69-40f7-af67-e6dc4c6f8cae.png)
     
-### 3. Installing Instructions
-<a href="#user-content-project-summary" id="summary">Project Summary</a>
+### 3. <h3 id="instructions">Installing Instructions</h3>
+
