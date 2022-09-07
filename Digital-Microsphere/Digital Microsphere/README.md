@@ -43,6 +43,8 @@ npm start
 ![image](https://user-images.githubusercontent.com/91690484/188815554-f432c965-3092-4775-86ed-a2345d03e9dd.png)
 
 ### <h3 id="user">4. User Guide</h3>
-![image](https://user-images.githubusercontent.com/91690484/188862650-a7e96be5-2242-4240-9145-926a88fb94b4.png)
-![img1](https://user-images.githubusercontent.com/91690484/188880937-5bbbed57-ef1c-44e1-9c1e-8dca285fec1d.png)
+<hr>
 
+![img1](https://user-images.githubusercontent.com/91690484/188880937-5bbbed57-ef1c-44e1-9c1e-8dca285fec1d.png)
+![image](https://user-images.githubusercontent.com/91690484/188862650-a7e96be5-2242-4240-9145-926a88fb94b4.png)
+![img1](https://user-images.githubusercontent.com/91690484/188885611-adf56d48-34f7-4c09-889f-10642f35d97a.png)
