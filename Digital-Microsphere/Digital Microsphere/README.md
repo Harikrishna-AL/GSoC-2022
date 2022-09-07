@@ -19,7 +19,8 @@ In some organisms like axolotl, the surface of the embryo is transparent and thu
 
     ![image](https://user-images.githubusercontent.com/91690484/182136823-4bd264e7-66b7-4176-976a-531f63d6c2da.png)
   
-  - #### <h4 id="projecting">Stage #3: Projecting the embryo images onto the generated mesh</h4>
+  - #### <h4 id="projecting">Stage #3: Projecting the embryo images onto the generated mesh</h4>![img1](https://user-images.githubusercontent.com/91690484/188880884-ba513769-6ed3-4245-a9e8-a36f3608b771.png)
+
     This are the expected outputs that I showed in the proposal but I am still working on this part to improve it.
     ![image](https://user-images.githubusercontent.com/91690484/182139982-bdb7d14b-00ed-4298-b5a3-079a6b28eabc.png)
     
@@ -42,4 +43,6 @@ npm start
 ![image](https://user-images.githubusercontent.com/91690484/188815554-f432c965-3092-4775-86ed-a2345d03e9dd.png)
 
 ### <h3 id="user">4. User Guide</h3>
+![image](https://user-images.githubusercontent.com/91690484/188862650-a7e96be5-2242-4240-9145-926a88fb94b4.png)
+![img1](https://user-images.githubusercontent.com/91690484/188880937-5bbbed57-ef1c-44e1-9c1e-8dca285fec1d.png)
 
